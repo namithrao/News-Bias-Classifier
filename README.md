@@ -1,1 +1,1 @@
-# News-Bias-Classifier
+# News Bias Classifier
